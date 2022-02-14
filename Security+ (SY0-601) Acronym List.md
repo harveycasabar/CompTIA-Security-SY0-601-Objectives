@@ -168,3 +168,187 @@
 | MFD     | Multifunction Device                                                       |
 | MFP     | Multifunction Printer                                                      |
 | ML      | Machine Learning                                                           |
+| MMS     | Multimedia Message Service                                                 |
+| MOA     | Memorandum of Agreement                                                    |
+| MOU     | Memorandum of Understanding                                                |
+| MPLS    | Multiprotocol Label Switching                                              |
+| MSA     | Measurement Systems Analysis                                               |
+| MS-CHAP | Microsoft Challenge-Handshake Authentication Protocol                      |
+| MSP     | Managed Service Provider                                                   |
+| MSSP    | Managed Security Service Provider                                          |
+| MTBF    | Mean Time Between Failures                                                 |
+| MTTF    | Mean Time to Failure                                                       |
+| MTTR    | Mean Time to Repair                                                        |
+| MTU     | Maximum Transmission Unit                                                  |
+| NAC     | Network Access Control                                                     |
+| NAS     | Network-attached Storage                                                   |
+| NAT     | Network Address Translation                                                |
+| NDA     | Non-disclosure Agreement                                                   |
+| NFC     | Near-field Communication                                                   |
+| NFV     | Network Function Virtualization                                            |
+| NGFW    | Next-generation Firewall                                                   |
+| NG-SWG  | Next-generation Secure Web Gateway                                         |
+| NIC     | Network Interface Card                                                     |
+| NIDS    | Network-based Intrusion Detection System                                   |
+| NIPS    | Network-based Intrusion Prevention System                                  |
+| NIST    | National Institute of Standards & Technology                               |
+| NOC     | Network Operations Center                                                  |
+| NTFS    | New Technology File System                                                 |
+| NTLM    | New Technology LAN Manager                                                 |
+| NTP     | Network Time Protocol                                                      |
+| OCSP    | Online Certificate Status Protocol                                         |
+| OID     | Object Identifier                                                          |
+| OS      | Operating System                                                           |
+| OSI     | Open Systems Interconnection                                               |
+| OSINT   | Open-source Intelligence                                                   |
+| OSPF    | Open Shortest Path First                                                   |
+| OT      | Operational Technology                                                     |
+| OTA     | Over-The-Air                                                               |
+| OTG     | On-The-Go                                                                  |
+| OVAL    | Open Vulnerability and Assessment Language                                 |
+| OWASP   | Open Web Application Security Project                                      |
+| P12     | PKCS #12                                                                   |
+| P2P     | Peer-to-Peer                                                               |
+| PaaS    | Platform as a Service                                                      |
+| PAC     | Proxy Auto Configuration                                                   |
+| PAM     | Privileged Access Management                                               |
+| PAM     | Pluggable Authentication Modules                                           |
+| PAP     | Password Authentication Protocol                                           |
+| PAT     | Port Address Translation                                                   |
+| PBKDF2  | Password-based Key Derivation Function 2                                   |
+| PBX     | Private Branch Exchange                                                    |
+| PCAP    | Packet Capture                                                             |
+| PCI DSS | Payment Card Industry Data Security Standard                               |
+| PDU     | Power Distribution Unit                                                    |
+| PE      | Portable Executable                                                        |
+| PEAP    | Protected Extensible Authentication Protocol                               |
+| PED     | Portable Electronic Device                                                 |
+| PEM     | Privacy Enhanced Mail                                                      |
+| PFS     | Perfect Forward Secrecy                                                    |
+| PGP     | Pretty Good Privacy                                                        |
+| PHI     | Personal Health Information                                                |
+| PII     | Personally Identifiable Information                                        |
+| PIN     | Personal Identification Number                                             |
+| PIV     | Personal Identity Verification                                             |
+| PKCS    | Public Key Cryptography Standards                                          |
+| PKI     | Public Key Infrastructure                                                  |
+| PoC     | Proof of Concept                                                           |
+| POP     | Post Office Protocol                                                       |
+| POTS    | Plain Old Telephone Service                                                |
+| PPP     | Point-to-Point Protocol                                                    |
+| PPTP    | Point-to-Point Tunneling Protocol                                          |
+| PSK     | Preshared Key                                                              |
+| PTZ     | Pan-Tilt-Zoom                                                              |
+| PUP     | Potentially Unwanted Program                                               |
+| QA      | Quality Assurance                                                          |
+| QoS     | Quality of Service                                                         |
+| PUP     | Potentially Unwanted Program                                               |
+| RA      | Registration Authority                                                     |
+| RAD     | Rapid Application Development                                              |
+| RADIUS  | Remote Authentication Dial-in User Service                                 |
+| RAID    | Redundant Array of Inexpensive Disks                                       |
+| RAM     | Random Access Memory                                                       |
+| RAS     | Remote Access Server                                                       |
+| RAT     | Remote Access Trojan                                                       |
+| RC4     | Rivest Cipher version 4                                                    |
+| RCS     | Rich Communication Services                                                |
+| RFC     | Request for Comments                                                       |
+| RFID    | Radio Frequency Identification                                             |
+| RIPEMD  | RACE Integrity Primitives Evaluation Message Digest                        |
+| ROI     | Return on Investment                                                       |
+| RPO     | Recovery Point Objective                                                   |
+| RSA     | Rivest, Shamir, & Adleman                                                  |
+| RTBH    | Remotely Triggered Black Hole                                              |
+| RTO     | Recovery Time Objective                                                    |
+| RTOS    | Real-time Operating System                                                 |
+| RTP     | Real-time Transport Protocol                                               |
+| S/MIME  | Secure/Multipurpose Internet Mail Extensions                               |
+| SaaS    | Software as a Service                                                      |
+| SAE     | Simultaneous Authentication of Equals                                      |
+| SAML    | Security Assertions Markup Language                                        |
+| SCADA   | Supervisory Control and Data Acquisition                                   |
+| SCAP    | Security Content Automation Protocol                                       |
+| SCEP    | Simple Certificate Enrollment Protocol                                     |
+| SDK     | Software Development Kit                                                   |
+| SDLC    | Software Development Life Cycle                                            |
+| SDLM    | Software Development Life-cycle Methodology                                |
+| SDN     | Software-defined Networking                                                |
+| SDP     | Service Delivery Platform                                                  |
+| SDV     | Software-defined Visibility                                                |
+| SED     | Self-Encrypting Drives                                                     |
+| SEH     | Structured Exception Handling                                              |
+| SFTP    | SSH File Transfer Protocol                                                 |
+| SHA     | Secure Hashing Algorithm                                                   |
+| SIEM    | Security Information and Event Management                                  |
+| SIM     | Subscriber Identity Module                                                 |
+| SIP     | Session Initiation Protocol                                                |
+| SLA     | Service-level Agreement                                                    |
+| SLE     | Single Loss Expectancy                                                     |
+| SMB     | Server Message Block                                                       |
+| S/MIME  | Secure/Multipurpose Internet Mail Extensions                               |
+| SMS     | Short Message Service                                                      |
+| SMTP    | Simple Mail Transfer Protocol                                              |
+| SMTPS   | Simple Mail Transfer Protocol Secure                                       |
+| SNMP    | Simple Network Management Protocol                                         |
+| SOAP    | Simple Object Access Protocol                                              |
+| SOAR    | Security Orchestration, Automation, Response                               |
+| SoC     | System on Chip                                                             |
+| SOC     | Security Operations Center                                                 |
+| SPF     | Sender Policy Framework                                                    |
+| SPIM    | Spam over Instant Messaging                                                |
+| SQL     | Structured Query Language                                                  |
+| SQLi    | SQL Injection                                                              |
+| SRTP    | Secure Real-time Transport Protocol                                        |
+| SSD     | Solid State Drive                                                          |
+| SSH     | Secure Shell                                                               |
+| SSID    | Service Set Identifier                                                     |
+| SSL     | Secure Sockets Layer                                                       |
+| SSO     | Single Sign-on                                                             |
+| STIX    | Structured Threat Information eXpression                                   |
+| STP     | Shielded Twisted Pair                                                      |
+| SWG     | Secure Web Gateway                                                         |
+| TACACS+ | Terminal Access Controller Access Control System                           |
+| TAXII   | Trusted Automated eXchange of Intelligence Information                     |
+| TCP/IP  | Transmission Control Protocol/Internet Protocol                            |
+| TGT     | Ticket Granting Ticket                                                     |
+| TKIP    | Temporal Key Integrity Protocol                                            |
+| TLS     | Transport Layer Security                                                   |
+| TOTP    | Time-based One Time Password                                               |
+| TPM     | Trusted Platform Module                                                    |
+| TSIG    | Transaction Signature                                                      |
+| TTP     | Tactics, Techniques, and Procedures                                        |
+| UAT     | User Acceptance Testing                                                    |
+| UDP     | User Datagram Protocol                                                     |
+| UEBA    | User and Entity Behavior Analytics                                         |
+| UEFI    | Unified Extensible Firmware Interface                                      |
+| UEM     | Unified Endpoint Management                                                |
+| UPS     | Uninterruptible Power Supply                                               |
+| URI     | Uniform Resource Identifier                                                |
+| URL     | Universal Resource Locator                                                 |
+| USB     | Universal Serial Bus                                                       |
+| USB OTG | USB On-The-Go                                                              |
+| UTM     | Unified Threat Management                                                  |
+| UTP     | Unshielded Twisted Pair                                                    |
+| VBA     | Visual Basic for Applications                                              |
+| VDE     | Virtual Desktop Environment                                                |
+| VDI     | Virtual Desktop Infrastructure                                             |
+| VLAN    | Virtual Local Area Network                                                 |
+| VLSM    | Variable-length Subnet Masking                                             |
+| VM      | Virtual Machine                                                            |
+| VoIP    | Voice over IP                                                              |
+| VPC     | Virtual Private Cloud                                                      |
+| VPN     | Virtual Private Network                                                    |
+| VTC     | Video Teleconferencing                                                     |
+| WAF     | Web Application Firewall                                                   |
+| WAP     | Wireless Access Point                                                      |
+| WEP     | Wired Equivalent Privacy                                                   |
+| WIDS    | Wireless Intrusion Detection System                                        |
+| WIPS    | Wireless Intrusion Prevention System                                       |
+| WORM    | Write Once Read Many                                                       |
+| WPA     | WiFi Protected Access                                                      |
+| WPS     | WiFi Protected Setup                                                       |
+| XaaS    | Anything as a Service                                                      |
+| XML     | Extensible Markup Language                                                 |
+| XOR     | Exclusive OR                                                               |
+| XSRF    | Cross-site Request Forgery                                                 |
+| XSS     | Cross-site Scripting                                                       | 
