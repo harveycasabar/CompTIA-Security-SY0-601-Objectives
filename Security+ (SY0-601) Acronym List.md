@@ -32,3 +32,38 @@
 | BYOD    | Bring Your Own Device                                                      |
 | CA      | Certificate Authority                                                      |
 | CAPTCHA | Completely Automated Public Turing Test to Tell Computers and Humans Apart |
+| CAR     | Corrective Action Report                                                   |
+| CASB    | Cloud Access Security Broker                                               |
+| CBC     | Cipher Block Chaining                                                      |
+| CBT     | Computer-based Training                                                    |
+| CCMP    | Counter-Mode/CBC-MAC Protocol                                              |
+| CCTV    | Closed-Circuit Television                                                  |
+| CERT    | Computer Emergency Response Team                                           |
+| CFB     | Cipher Feedback                                                            |
+| CHAP    | Challenge-Handshake Authentication Protocol                                |
+| CIO     | Chief Information Officer                                                  |
+| CIRT    | Computer Incident Response Team                                            |
+| CIS     | Center for Internet Security                                               |
+| CMS     | Content Management System                                                  |
+| CN      | Common Name                                                                |
+| COOP    | Continuity of Operations Planning                                          |
+| COPE    | Corporate-owned Personally Enabled                                         |
+| CP      | Contingency Planning                                                       |
+| CRC     | Cyclic Redundancy Check                                                    |
+| CRL     | Certificate Revocation List                                                |
+| CSA     | Cloud Security Alliance                                                    |
+| CSIRT   | Computer Security Incident Response Team                                   |
+| CSO     | Chief Security Officer                                                     |
+| CSP     | Cloud Service Provider                                                     |
+| CSR     | Certificate Signing Request                                                |
+| CSRF    | Cross-Site Request Forgery                                                 |
+| CSU     | Channel Service Unit                                                       |
+| CTM     | Counter-Mode                                                               |
+| CTO     | Chief Technology Officer                                                   |
+| CVE     | Common Vulnerabilities and Exposures                                       |
+| CVSS    | Common Vulnerability Scoring System                                        |
+| CYOD    | Choose Your Own Device                                                     |
+| DAC     | Discretionary Access Control                                               |
+| DBA     | Database Administrator                                                     |
+| DDoS    | Distributed Denial-of-Service                                              |
+| DEP     | Data Execution Prevention                                                  |
