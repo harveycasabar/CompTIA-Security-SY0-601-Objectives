@@ -6,12 +6,13 @@ Link to download:
 
 
 Composed of 5 Domains:
- 
-1.0 Threats, Attacks, and Vulnerabilities
-2.0 Architecture and Design
-3.0 Implementation
-4.0 Operations and Incident Response
-5.0 Governance, Risk, and Compliance
-Security+ Acronym List(SY0-601)
+
+    - 1.0 Threats, Attacks, and Vulnerabilities
+    - 2.0 Architecture and Design
+    - 3.0 Implementation
+    - 4.0 Operations and Incident Response
+    - 5.0 Governance, Risk, and Compliance
+    
+    Security+ Acronym List(SY0-601)
 
 
